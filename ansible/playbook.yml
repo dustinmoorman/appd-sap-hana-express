@@ -1,5 +1,5 @@
 ---
-- hosts: ubuntu
+- hosts: sap
   tasks:
     - name: Add GPG key and APT source for Docker
       shell: |
