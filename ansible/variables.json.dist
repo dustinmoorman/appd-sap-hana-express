@@ -1,6 +1,8 @@
 {
   "account_access_key": "",
   "controller_host": "",
+  "docker_hub_user": "",
+  "docker_hub_pass": "",
   "required_packages": [
     "openjdk-8-jdk",
     "docker-ce",
