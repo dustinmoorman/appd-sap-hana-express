@@ -4,8 +4,18 @@ The intent behind this repository is to provide a local testing environment of S
 
 ## Machine Requirements
 
+### Sizing
+
 - Ubuntu 18.04
 - t2.xlarge (4x16)
+
+### Ports for Security Group
+
+- 39013
+- 39017
+- 39041-39045
+- 1128-1129
+- 59013-59014
 
 ## References
 
