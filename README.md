@@ -4,6 +4,8 @@ The intent behind this repository is to provide a local testing environment of S
 
 ## Machine Requirements
 
+### Sizing
+
 - Ubuntu 18.04
 - t2.xlarge (4x16)
 
